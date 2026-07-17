@@ -88,13 +88,3 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 Open the provided URL (usually `http://localhost:8501`) in your browser to start planning!
-
----
-
-## 🎨 Interface Customization
-PathFinder AI overrides default Streamlit components using a custom CSS stylesheet located in `assets/styles.css`. This delivers a dark, sleek glassmorphic layout, customizable gradients, hover micro-animations, and clean Outfit font families for a premium software experience.
-
----
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to clone, edit, and extend!
