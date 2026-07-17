@@ -1,4 +1,5 @@
 # PathFinder AI: Career Advisor 🎯
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/6f8b74b2-3e75-4b42-928c-e678b221b255" />
 
 PathFinder AI is a premium, feature-rich Career Advisor dashboard built using **Python**, **Streamlit**, and the **Groq API**. It features a modern, custom glassmorphic dark-theme design and provides four modular tools to help users discover, plan, and optimize their career journeys.
 
